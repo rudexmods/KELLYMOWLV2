@@ -1,4 +1,4 @@
-FROM souravkl11/raganork:test
+FROM souravkl11/kellymowl:test
 
 RUN git clone https://github.com/souravkl11/Raganork/ /skl/raganork
 WORKDIR /skl/raganork 
